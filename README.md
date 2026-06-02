@@ -94,6 +94,23 @@ AI_Resume_Screening_System/
 - Results can be downloaded as a CSV file
 
 ---
+
+## 📋 Sample Job Description / Example Input
+
+### Data Scientist
+
+#### Requirements
+
+* Python
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-learn
+* SQL
+* Data Visualization
+* Git
+* Statistics
+
 ## 📊 Example Output
 
 ### 🏆 Candidate Rankings
